@@ -1,0 +1,6 @@
+[book]
+authors = ["Soroush Alinia"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Security Village CMS Documentation"
